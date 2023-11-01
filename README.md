@@ -37,7 +37,7 @@ In a world where online security is paramount, having strong, unique passwords f
 
 - **Password Management**: Password Managers often integrate password generation features to create secure credentials for storing in the manager.
 
-- **Security Professionals**: IT and cybersecurity professionals can use the tool to generate complex passwords for their clients or organization.
+- **Security Professionals**: IT and cybersecurity professionals can use the tool to generate complex passwords for their clients or organizations.
 
 >**Security Note:**
 
@@ -45,7 +45,7 @@ While the Password Generator enhances security, it's essential to educate users 
 
 This project addresses a crucial aspect of online security and privacy, making it a valuable tool for individuals and organizations looking to protect their digital assets from unauthorized access.
 
-HTML and Javascript are the technogies used in this project.
+HTML and Javascript are the technologies used in this project.
 
 ## Demo
 
